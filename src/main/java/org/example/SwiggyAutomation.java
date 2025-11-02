@@ -11,7 +11,7 @@ import java.util.List;
 public class SwiggyAutomation {
     public static void main(String[] args) throws InterruptedException {
 
-        String phoneNumber = "8920123625";
+        String phoneNumber = "9876543210";
         String deliveryLocation = "Bengaluru";
         String restaurantName = "Domino's Pizza";
         String doorFlatNumber = "101, Tech Park";
