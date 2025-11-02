@@ -64,7 +64,7 @@ mvn clean install
 Before running the script, update the following variables in `SwiggyAutomation.java`:
 
 ```java
-String phoneNumber = "8920123625";          // Your registered phone number
+String phoneNumber = "9876543210";          // Your registered phone number
 String deliveryLocation = "Bengaluru";      // Your city/location
 String restaurantName = "Domino's Pizza";   // Restaurant to search
 String doorFlatNumber = "101, Tech Park";   // Flat/Door number
