@@ -253,11 +253,6 @@ This project is for educational purposes only. Ensure compliance with Swiggy's T
 **Sumit**
 - GitHub: [@Sumit-1018](https://github.com/Sumit-1018)
 
-## 🙏 Acknowledgments
-
-- Selenium WebDriver community
-- Swiggy platform
-- Maven and Java ecosystems
 
 ## ⚖️ Disclaimer
 
